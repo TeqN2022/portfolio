@@ -1,4 +1,4 @@
-# Portfolio made by [Kalashiexe](https://github.com/Kalashiexe)
+# Portfolio made by [TeqN2022](https://github.com/TeqN2022)
 
 ## 📝 Credits
 
@@ -25,9 +25,10 @@ npm install --s --f && npm run dev
 
 ## 📄 License
 
-MIT © [Kalashiexe](./LICENSE)
+MIT © [TeqN2022](./LICENSE)
 
 ## 📫 Contact
 
-[Gmail](mailto:kalashispotify@gmail.com) |  [Discord](https://discord.com/users/1059362574958874634) | [Github](https://github.com/Kalashiexe)
+[Gmail](mailto:info@teqn.xyz) |  [Discord](https://discord.com/users/954355224305356840) | [Github](https://github.com/TeqN2022)
+
 
