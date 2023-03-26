@@ -8,18 +8,18 @@
  Description: This is my portfolio website. I made it with Next.js and Tailwind CSS. I used Next.js for the server side rendering and Tailwind CSS for the styling. I used the Next.js with Tailwind CSS
 ## 🚀 Demo
 
-https://kalashi.me
+https://teqn.xyz
 
 ## 📦 Installation
 
 ```bash 
-git clone https://github.com/Kalashiexe/Portfolio.git
+git clone https://github.com/TeqN2022/portfolio.git
 ```
 
 ## 🛠 Setup
 
 ```bash
-cd Portfolio
+cd portfolio
 npm install --s --f && npm run dev
 ```
 
