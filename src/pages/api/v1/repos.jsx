@@ -4,7 +4,7 @@ import config from '../../../../config';
 export default async function handler(req, res) {
     var token = config.github.token1+config.github.token2
 
-    const {data} = await axios.get(`https://api.github.com/users/kalashiexe/repos`,{
+    const {data} = await axios.get(`https://api.github.com/users/TeqN2022/repos`,{
         headers: {
             Authorization: `token ${token}`,
         }
