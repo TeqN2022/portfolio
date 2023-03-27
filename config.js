@@ -3,7 +3,8 @@ module.exports = {
         id: "954355224305356840", 
     },
     github:{
-        token1: "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"
+        token1: "ghp_qSKAXk2nEt9ZlGR",
+		token2: "M6i26kldSkWPNgS074jkR"
     },
     about:{
         description: "I'm a 16 years old developer from Turkey. I'm currently working on my own projects and learning new things.",
@@ -16,9 +17,9 @@ module.exports = {
         title: 'My Personal Website',
         description: 'My Personal Website',
         theme: '#02060f',
-        lang: 'tr',
+        lang: 'en',
         url: 'https://teqn.xyz',
-        image: '',
+        image: 'https://cdn.discordapp.com/attachments/1075180794471010315/1089681304825643008/domainkorumav3.png',
     },
     title: 'TeqN',
     titles:[
