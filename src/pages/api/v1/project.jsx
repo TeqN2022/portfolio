@@ -1,10 +1,10 @@
 export default async(req, res) => { 
     const project = [
         {
-            "name": "teqn.xyz",
+            "name": "me.teqn.xyz",
             "link": "https://cdn.discordapp.com/attachments/1075180794471010315/1089677960132436118/image.png",
             "description": "A personal website built with Next.js and Tailwind CSS",
-            "html_url": "https://teqn.xyz/"
+            "html_url": "https://me.teqn.xyz/"
         
         },
         {
