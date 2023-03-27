@@ -19,6 +19,12 @@ export default async(req, res) => {
             "description": "",
             "html_url": "https://mybomb.store/"
         },
+        {
+            "name": "loofy.com.tr",
+            "link": "https://cdn.discordapp.com/attachments/1075180794471010315/1090060502073344072/image.png",
+            "description": "",
+            "html_url": "https://www.loofy.com.tr/"
+        },
 
         
 
