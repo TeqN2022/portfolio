@@ -29,6 +29,30 @@ export default async(req, res) => {
             "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
         },
         {
+            "name": "Linux",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+        },
+        {
+            "name": "Unreal Engine",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg",
+        },
+        {
+            "name": "Android Studio",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg",
+        },
+        {
+            "name": "Unity",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg",
+        },
+        {
+            "name": "Arduino",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg",
+        },
+        {
+            "name": "Raspberry Pi",
+            "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg",
+        },
+        {
             "name": "Mongo DB",
             "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
         },
