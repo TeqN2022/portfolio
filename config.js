@@ -19,7 +19,7 @@ module.exports = {
         theme: '#02060f',
         lang: 'en',
         url: 'https://teqn.xyz',
-        image: 'https://cdn.discordapp.com/attachments/1075180794471010315/1089681304825643008/domainkorumav3.png'',
+        image: 'https://cdn.discordapp.com/attachments/1075180794471010315/1089681304825643008/domainkorumav3.png',
     },
     title: 'TeqN',
     titles:[
