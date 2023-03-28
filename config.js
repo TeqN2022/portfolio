@@ -18,7 +18,7 @@ module.exports = {
         description: 'My Personal Website',
         theme: '#02060f',
         lang: 'en',
-        url: 'https://teqn.xyz',
+        url: 'https://me.teqn.xyz',
         image: 'https://cdn.discordapp.com/avatars/954355224305356840/0c042e19fdccaeadaae7e40b44c27cfa.png',
     },
     title: 'TeqN',
